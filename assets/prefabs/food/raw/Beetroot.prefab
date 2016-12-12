@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Beetroot",
+        "stackId": "Cooking:beetroot",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Beetroot"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:beetroot"
+    },
+    "Food": {
+        "filling": 1
+    },
+    "Drink": {
+        "filling": 0.2
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "Purple, sweet-tasting root vegetable. Can be cooked in numerorus ways.",
+             "Restores 1 food and 0.2 water."
+        ]
+    }
+}
